@@ -5,13 +5,15 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>A6F7562F-7718-4226-B614-3408CDA46257</string>
+	<string>63290498-E73C-4C6C-92E2-412E0CC9B404</string>
 	<key>IDESourceControlProjectName</key>
 	<string>MCMS</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>77E54EFB-EFC8-4127-ADFB-272E25DF7DDD</key>
 		<string>https://github.com/AaronEckhart/Deprocrastinator.git</string>
+		<key>7BE70B8D-F5A4-47D1-B992-4EFB4BCBFECD</key>
+		<string>https://github.com/AaronEckhart/MCMS.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>MCMS/MCMS.xcodeproj/project.xcworkspace</string>
@@ -19,15 +21,25 @@
 	<dict>
 		<key>77E54EFB-EFC8-4127-ADFB-272E25DF7DDD</key>
 		<string>../../..</string>
+		<key>7BE70B8D-F5A4-47D1-B992-4EFB4BCBFECD</key>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/AaronEckhart/Deprocrastinator.git</string>
+	<string>https://github.com/AaronEckhart/MCMS.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
 	<string>77E54EFB-EFC8-4127-ADFB-272E25DF7DDD</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7BE70B8D-F5A4-47D1-B992-4EFB4BCBFECD</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MCMS</string>
+		</dict>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>

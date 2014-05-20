@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  BattleRoyalViewController.h
 //  MCMS
 //
 //  Created by AE on 5/20/14.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
-@property NSMutableArray *creatures;
+@interface BattleRoyalViewController : UIViewController
 
 @end
