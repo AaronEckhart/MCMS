@@ -8,9 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		81119584192BE4B000FECD07 /* CreatureDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 81119583192BE4B000FECD07 /* CreatureDetailViewController.m */; };
-		81119587192BFAED00FECD07 /* Stripper_Unicorn.png in Resources */ = {isa = PBXBuildFile; fileRef = 81119585192BFAED00FECD07 /* Stripper_Unicorn.png */; };
-		81119588192BFAED00FECD07 /* keep-calm-and-release-the-kraken-9.png in Resources */ = {isa = PBXBuildFile; fileRef = 81119586192BFAED00FECD07 /* keep-calm-and-release-the-kraken-9.png */; };
-		8111958A192BFB0F00FECD07 /* Winged_Hydra.png in Resources */ = {isa = PBXBuildFile; fileRef = 81119589192BFB0F00FECD07 /* Winged_Hydra.png */; };
 		8111958D192BFDF700FECD07 /* BattleRoyalViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8111958C192BFDF700FECD07 /* BattleRoyalViewController.m */; };
 		81D9029A192BD89E00EB4C60 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 81D90299192BD89E00EB4C60 /* Foundation.framework */; };
 		81D9029C192BD89E00EB4C60 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 81D9029B192BD89E00EB4C60 /* CoreGraphics.framework */; };
@@ -27,7 +24,6 @@
 		81D902C3192BD89E00EB4C60 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 81D902C1192BD89E00EB4C60 /* InfoPlist.strings */; };
 		81D902C5192BD89E00EB4C60 /* MCMSTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 81D902C4192BD89E00EB4C60 /* MCMSTests.m */; };
 		81D902D2192BD97300EB4C60 /* MagicalCreature.m in Sources */ = {isa = PBXBuildFile; fileRef = 81D902D1192BD97300EB4C60 /* MagicalCreature.m */; };
-		81D902DA192BDC5300EB4C60 /* CheckMate.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 81D902D9192BDC5300EB4C60 /* CheckMate.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -43,9 +39,6 @@
 /* Begin PBXFileReference section */
 		81119582192BE4B000FECD07 /* CreatureDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CreatureDetailViewController.h; sourceTree = "<group>"; };
 		81119583192BE4B000FECD07 /* CreatureDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CreatureDetailViewController.m; sourceTree = "<group>"; };
-		81119585192BFAED00FECD07 /* Stripper_Unicorn.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Stripper_Unicorn.png; path = ../../../Desktop/Stripper_Unicorn.png; sourceTree = "<group>"; };
-		81119586192BFAED00FECD07 /* keep-calm-and-release-the-kraken-9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "keep-calm-and-release-the-kraken-9.png"; path = "../../../Desktop/keep-calm-and-release-the-kraken-9.png"; sourceTree = "<group>"; };
-		81119589192BFB0F00FECD07 /* Winged_Hydra.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Winged_Hydra.png; path = ../../../Downloads/Winged_Hydra.png; sourceTree = "<group>"; };
 		8111958B192BFDF700FECD07 /* BattleRoyalViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BattleRoyalViewController.h; sourceTree = "<group>"; };
 		8111958C192BFDF700FECD07 /* BattleRoyalViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BattleRoyalViewController.m; sourceTree = "<group>"; };
 		81D90296192BD89E00EB4C60 /* MCMS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MCMS.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -69,7 +62,6 @@
 		81D902C4192BD89E00EB4C60 /* MCMSTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MCMSTests.m; sourceTree = "<group>"; };
 		81D902D0192BD97300EB4C60 /* MagicalCreature.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MagicalCreature.h; sourceTree = "<group>"; };
 		81D902D1192BD97300EB4C60 /* MagicalCreature.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MagicalCreature.m; sourceTree = "<group>"; };
-		81D902D9192BDC5300EB4C60 /* CheckMate.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CheckMate.framework; path = ../../../Desktop/CheckMate.framework; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,7 +69,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				81D902DA192BDC5300EB4C60 /* CheckMate.framework in Frameworks */,
 				81D9029C192BD89E00EB4C60 /* CoreGraphics.framework in Frameworks */,
 				81D9029E192BD89E00EB4C60 /* UIKit.framework in Frameworks */,
 				81D9029A192BD89E00EB4C60 /* Foundation.framework in Frameworks */,
@@ -108,9 +99,6 @@
 				81D902BE192BD89E00EB4C60 /* MCMSTests */,
 				81D90298192BD89E00EB4C60 /* Frameworks */,
 				81D90297192BD89E00EB4C60 /* Products */,
-				81119585192BFAED00FECD07 /* Stripper_Unicorn.png */,
-				81119586192BFAED00FECD07 /* keep-calm-and-release-the-kraken-9.png */,
-				81119589192BFB0F00FECD07 /* Winged_Hydra.png */,
 			);
 			sourceTree = "<group>";
 		};
@@ -126,7 +114,6 @@
 		81D90298192BD89E00EB4C60 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				81D902D9192BDC5300EB4C60 /* CheckMate.framework */,
 				81D90299192BD89E00EB4C60 /* Foundation.framework */,
 				81D9029B192BD89E00EB4C60 /* CoreGraphics.framework */,
 				81D9029D192BD89E00EB4C60 /* UIKit.framework */,
@@ -256,12 +243,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8111958A192BFB0F00FECD07 /* Winged_Hydra.png in Resources */,
 				81D902B2192BD89E00EB4C60 /* Images.xcassets in Resources */,
-				81119587192BFAED00FECD07 /* Stripper_Unicorn.png in Resources */,
 				81D902A4192BD89E00EB4C60 /* InfoPlist.strings in Resources */,
 				81D902AD192BD89E00EB4C60 /* Main.storyboard in Resources */,
-				81119588192BFAED00FECD07 /* keep-calm-and-release-the-kraken-9.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
